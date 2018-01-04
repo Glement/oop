@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #BCOM!
+SystemOrganization addCategory: 'BCOM-Aux'!
+SystemOrganization addCategory: 'BCOM-Core'!
+SystemOrganization addCategory: 'BCOM-Listeners'!
+SystemOrganization addCategory: 'BCOM-Map'!
+SystemOrganization addCategory: 'BCOM-Players'!
+SystemOrganization addCategory: 'BCOM-Soldiers'!
+SystemOrganization addCategory: 'BCOM-Tests'!
+SystemOrganization addCategory: 'BCOM-Weapons'!

@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testPercentageNoRounds" : "Vladislav 1/2/2018 23:04",
+		"testPercentageCountSimpleCase" : "Vladislav 1/4/2018 12:30",
+		"testPathfinding" : "Vladislav 1/2/2018 23:03",
+		"testPercentageTooFar" : "Vladislav 1/2/2018 23:04",
+		"testPercentageBlocked" : "Vladislav 1/2/2018 23:04"
+	},
+	"class" : { }
+}

@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"show" : "Vladislav 12/31/2017 17:35",
+		"space:" : "Vladislav 12/31/2017 17:55",
+		"animation:to:" : "Anonymous 1/3/2018 13:51",
+		"initialize" : "Vladislav 1/4/2018 13:11",
+		"testInstance" : "Vladislav 1/4/2018 12:29",
+		"alien" : "Vladislav 12/31/2017 17:26",
+		"endTurn" : "Anonymous 1/4/2018 15:03",
+		"left" : "Vladislav 1/2/2018 22:12",
+		"down" : "Anonymous 1/2/2018 00:43",
+		"human" : "Vladislav 12/31/2017 17:26",
+		"right" : "Anonymous 1/2/2018 00:08",
+		"chooseTile:" : "Anonymous 1/4/2018 15:03",
+		"map:" : "Vladislav 12/31/2017 17:39",
+		"buildUp" : "Anonymous 1/4/2018 13:05",
+		"botTurn" : "Anonymous 1/4/2018 13:04",
+		"calculate" : "Vladislav 1/3/2018 15:12",
+		"dark:" : "Vladislav 1/2/2018 20:41",
+		"chooseSoldier:" : "Anonymous 1/3/2018 14:21",
+		"light:" : "Vladislav 1/2/2018 19:56",
+		"up" : "Vladislav 1/2/2018 22:20",
+		"space" : "Anonymous 1/1/2018 14:46",
+		"map" : "Vladislav 12/31/2017 17:39",
+		"reload" : "Vladislav 1/4/2018 12:28"
+	},
+	"class" : { }
+}

@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"initialize" : "Vladislav 1/4/2018 13:02",
+		"hitChanceTo:onMap:" : "Vladislav 1/4/2018 13:15"
+	},
+	"class" : {
+		"createForGame:onCoordinates:" : "Anonymous 1/3/2018 14:05"
+	}
+}

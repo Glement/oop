@@ -1,0 +1,3 @@
+accessing
+pathfindingFlag
+^ pathfindingFlag.

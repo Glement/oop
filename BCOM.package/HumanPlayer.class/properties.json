@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Player",
+	"category" : "BCOM-Players",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HumanPlayer",
+	"type" : "normal"
+}

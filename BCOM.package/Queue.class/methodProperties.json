@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"initialize" : "Vladislav 12/28/2017 16:25",
+		"push:" : "Vladislav 12/28/2017 16:24",
+		"pop" : "Vladislav 12/28/2017 16:24",
+		"isEmpty" : "Vladislav 12/28/2017 16:24"
+	},
+	"class" : { }
+}

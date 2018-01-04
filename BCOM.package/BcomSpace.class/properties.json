@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "BlSpace",
+	"category" : "BCOM-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"endTurn",
+		"reload",
+		"grid",
+		"map",
+		"interface",
+		"left",
+		"right",
+		"up",
+		"down"
+	],
+	"name" : "BcomSpace",
+	"type" : "normal"
+}

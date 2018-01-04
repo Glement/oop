@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DrawableTile",
+	"category" : "BCOM-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DirtPartCover",
+	"type" : "normal"
+}

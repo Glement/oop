@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Vladislav 12/28/2017 15:42",
+	"super" : "Object",
+	"category" : "BCOM-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tiles"
+	],
+	"name" : "Map",
+	"type" : "normal"
+}

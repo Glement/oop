@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Vladislav 12/28/2017 15:43",
+	"super" : "Object",
+	"category" : "BCOM-Aux",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"que"
+	],
+	"name" : "Queue",
+	"type" : "normal"
+}

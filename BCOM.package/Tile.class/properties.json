@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "BlElement",
+	"category" : "BCOM-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"coordinatesMap",
+		"back1",
+		"back2",
+		"coordinates",
+		"isCover",
+		"isFullCover",
+		"pathfindingFlag"
+	],
+	"name" : "Tile",
+	"type" : "normal"
+}

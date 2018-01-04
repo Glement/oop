@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Weapon",
+	"category" : "BCOM-Weapons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AssaultRifle",
+	"type" : "normal"
+}

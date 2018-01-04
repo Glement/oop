@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BlElementEventListener",
+	"category" : "BCOM-Listeners",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bcomGame"
+	],
+	"name" : "EndTurnEventListener",
+	"type" : "normal"
+}

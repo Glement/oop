@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BCOM-Core",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"playersArray",
+		"endGame",
+		"map",
+		"space",
+		"humanPlayer",
+		"alienPlayer",
+		"currentSoldier",
+		"accesibleTile"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Tile",
+	"category" : "BCOM-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"location",
+		"image"
+	],
+	"name" : "DrawableTile",
+	"type" : "normal"
+}

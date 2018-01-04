@@ -1,0 +1,30 @@
+{
+	"commentStamp" : "Vladislav 12/28/2017 14:45",
+	"super" : "BlElement",
+	"category" : "BCOM-Soldiers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stats",
+		"text",
+		"coordinatesMap",
+		"back1",
+		"back2",
+		"class",
+		"location",
+		"coordinates",
+		"shootRange",
+		"image",
+		"moveRange",
+		"health",
+		"armor",
+		"precision",
+		"AP",
+		"weapon",
+		"state",
+		"fraction"
+	],
+	"name" : "Soldier",
+	"type" : "normal"
+}

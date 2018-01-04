@@ -1,0 +1,3 @@
+visual properties
+left
+	^ left.

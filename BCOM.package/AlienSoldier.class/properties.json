@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Soldier",
+	"category" : "BCOM-Soldiers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AlienSoldier",
+	"type" : "normal"
+}

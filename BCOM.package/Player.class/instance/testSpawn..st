@@ -1,0 +1,3 @@
+actions
+testSpawn: aGame
+self subclassResponsibility

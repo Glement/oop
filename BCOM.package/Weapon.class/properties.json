@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BCOM-Weapons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"lowestDamage",
+		"highestDamage",
+		"APForShot",
+		"criticalChance",
+		"criticalDamage",
+		"precisionModifier",
+		"armorPierceChance",
+		"rounds",
+		"roundsFull"
+	],
+	"name" : "Weapon",
+	"type" : "normal"
+}

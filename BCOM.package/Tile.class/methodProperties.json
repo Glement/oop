@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"coordinates" : "Vladislav 12/28/2017 15:13",
+		"pathfindingFlag:" : "Vladislav 12/28/2017 15:14",
+		"coordinates:" : "Anonymous 1/2/2018 18:27",
+		"pathfindingFlag" : "Vladislav 12/28/2017 15:13",
+		"getNeighbourByIndex:onMap:" : "Vladislav 1/2/2018 20:53",
+		"isFullCover:" : "Vladislav 12/28/2017 15:09",
+		"initialize" : "Vladislav 12/28/2017 15:15",
+		"isFreeInGame:" : "Vladislav 12/31/2017 17:29",
+		"getNeighboursOnMap:" : "Vladislav 1/2/2018 21:19",
+		"isFullCover" : "Vladislav 12/28/2017 15:13",
+		"coordinatesMap:" : "Anonymous 1/2/2018 15:37",
+		"coordinatesMap" : "Anonymous 1/2/2018 15:37",
+		"isCover" : "Vladislav 12/28/2017 15:13",
+		"place:" : "Anonymous 1/1/2018 15:24",
+		"isCover:" : "Vladislav 12/28/2017 15:09"
+	},
+	"class" : {
+		"getBlankByType:" : "Vladislav 1/2/2018 22:56",
+		"getByType:" : "Vladislav 1/2/2018 20:37"
+	}
+}
