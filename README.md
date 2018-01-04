@@ -1,6 +1,11 @@
 # BI-OOP
 Turn-based XCOM-like strategy.
 
+### Team members
+Maxim Sachok (sachomax)
+Uladzislau Yorsh (yorshula)
+
+### Dev Log
 24.11.2017
 We wrote description of classes, and choosed tiels for graphics.
 1.12.2017
@@ -16,5 +21,11 @@ Using of Bresenham's algorithm for shoot chance calculations, main game structur
 5.1.2017
 Aliens min-max AI. Final polishing. Project presentation.
 
-Graphics and controls are made via Bloc and it's MVC model. The package is split into 8 tags: Aux, Core, Listeners, Map, Players, Soldiers, Tests and Weapons.
-Game is the essential game class. It contains all nececcary game information, like a game map, game characters and an instance of BcomSpace, which is used for drawing and controls. Game object can be initialized into 2 ways. buildUp initialization method is used for preparing fuctional game instance for launching and playing. testInstance is used to particially initialize Game for tests. Tile pics reading can take some time, so testInstance use special readForTest method to read map without reading tile pictures.
+Graphics and controls are made via Bloc, so it's required for install.
+
+### Launch
+To launch the game, write to the playground:
+```
+Game new buildUp show.
+```
+
