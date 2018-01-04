@@ -29,3 +29,4 @@ To launch the game, write to the playground:
 Game new buildUp show.
 ```
 
+Read the readme.pdf for details.
