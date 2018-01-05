@@ -30,3 +30,6 @@ Game new buildUp show.
 ```
 
 Read the readme.pdf for details.
+
+### Known bugs  
+- Camera and soldier movement during animation cause visual bugs
